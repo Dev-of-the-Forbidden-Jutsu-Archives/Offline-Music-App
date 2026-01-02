@@ -55,8 +55,3 @@ An elegant offline music player app built with Kotlin and Jetpack Compose, featu
 * 🌙 Dark mode toggle
 * 🔁 Shuffle and repeat modes
 * 🔍 Search functionality
-
-
-
-
-Would you like me to make it look **Markdown-formatted with icons and badges** (like GitHub project badges for Kotlin, Jetpack Compose, etc.)? That can make it look more eye-catching on your repo page.
