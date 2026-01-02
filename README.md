@@ -56,22 +56,6 @@ An elegant offline music player app built with Kotlin and Jetpack Compose, featu
 * 🔁 Shuffle and repeat modes
 * 🔍 Search functionality
 
-🤝 Contributing
-
-Contributions are welcome!
-Feel free to fork the repo and submit pull requests with improvements or bug fixes.
-
-📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
-
-
-👨‍💻 Author
-
-**Your Name**
-📧 [your.email@example.com](mailto:your.email@example.com)
-🌐 [GitHub Profile](https://github.com/yourusername)
 
 
 
